@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: eureka-consumer-feign
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dengji85
+Build-Jdk: 1.7.0_06
+Built-By: dell
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
